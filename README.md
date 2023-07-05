@@ -1,2 +1,3 @@
 # ArraySort
-Different methods to sort an array in python, using for loops, while loops and methods
+Different methods to sort an array in python, using for loops, while loops and methods demonstrated in a notebook file
+
